@@ -1,0 +1,1 @@
+I had a hard time during my pentesting practice with php websites due to me not beeing able to visualise what is happening on a backend. So I decided to build a couple of simple pages to better understand what is happening under the hood
